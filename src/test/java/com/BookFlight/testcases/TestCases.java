@@ -1,6 +1,7 @@
 package com.BookFlight.testcases;
 
 import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 
 import com.BookFlight.pom.HomePage;
 import com.BookFlight.pom.SelectFlightPage;
@@ -35,3 +36,4 @@ public class TestCases extends BaseClass {
 	    
 	}
 }
+ 

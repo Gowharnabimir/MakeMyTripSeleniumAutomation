@@ -30,8 +30,9 @@ public class HomePage extends BaseClass{
 	
 	//Action methods:
 	
-	public  void closePopUp()
-	{
+	public  void closePopUp() throws InterruptedException
+	{   
+		Thread.sleep(5000);
 		driver.findElement(close).click();
 		
 	}

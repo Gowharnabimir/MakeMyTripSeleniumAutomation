@@ -7,6 +7,7 @@
         <methods>
           <include name="searchFlightTickets"/>
           <include name="tearDown"/>
+          <include name="selectFlightTicket"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- com.BookFlight.testcases.TestCases -->
